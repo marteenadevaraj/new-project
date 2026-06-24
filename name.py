@@ -1,0 +1,6 @@
+name=("Teena")
+print(name)
+city=("chennai")
+print(city)
+age=("20")
+print(age)
